@@ -1,3 +1,3 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_sprout4.mk \
-    $(LOCAL_DIR)/full_sprout4.mk \
+$(LOCAL_DIR)/device.mk \
+$(LOCAL_DIR)/nitrogen_sprout4.mk \
